@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2022-07-30T06:16:36.849198292Z"
+    description: my nginx custom chart
+    digest: 3d1b2924f37c9022ff1bbdca8ece2ea111914514ca89aa0b069f8ac901597efd
+    name: mychart
+    urls:
+    - https://github.com/irwankilay/myrepo/releases/download/mychart-0.4.0/mychart-0.4.0.tgz
+    version: 0.4.0
+generated: "2022-07-30T06:16:36.698242729Z"
